@@ -16,9 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesperli&layout=compact&theme=dracula"/>
   </a>
 </div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fesperli/fesperli/output/github-contribution-grid-snake.svg" alt="Snake game" />
-</p>
+
 ### 🐍 My Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/fesperli/fesperli/output/github-contribution-grid-snake.svg" alt="Snake game" />
