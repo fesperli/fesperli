@@ -17,11 +17,6 @@
   </a>
 </div>
 
-### 🐍 My Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fesperli/fesperli/output/github-contribution-grid-snakee.svg" alt="Snake game" />
-</p>
-
 ### 📱 Connect with me
 <div align="center">
   <a href="www.linkedin.com/in/felipesperli" target="_blank">
