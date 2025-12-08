@@ -12,7 +12,7 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,mongodb,mysql,docker,azure,vscode&theme=dracula" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,mongodb,mysql,docker,azure,vscode&theme=dracula&v=1" />
   </a>
 </div>
 
@@ -21,8 +21,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
   <a href="https://github.com/fesperli">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=fesperli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesperli&layout=compact&theme=dracula&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=fesperli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&v=1"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesperli&layout=compact&theme=dracula&hide_border=true&v=1"/>
   </a>
 </div>
 
